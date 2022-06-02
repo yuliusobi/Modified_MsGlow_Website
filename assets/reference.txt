@@ -1,0 +1,80 @@
+ABOUT US 1
+https://unsplash.com/photos/TwMFnifOyI8
+ABOUT US 2
+https://unsplash.com/photos/KQ6sO8m1ZDE
+ABOUT US 3
+https://unsplash.com/photos/vkcgH0hbY7E\
+ABOUT US 4
+https://unsplash.com/photos/pJ_DCj9KswI
+
+BANNER PROMO 1
+https://unsplash.com/photos/5UJbKYUjFCk
+BANNER PROMO 2
+https://unsplash.com/photos/KzidBAES-uE
+BANNER PROMO 3
+https://unsplash.com/photos/pny3ApzBVEk
+
+Banner Profile
+https://unsplash.com/photos/2_3c4dIFYFU
+Profile Pic
+https://unsplash.com/photos/UtrE5DcgEyg
+
+Categories 
+Women
+https://www.msglowid.com/Website/Halaman/about_us
+Men
+https://msglowformenid.com/
+
+FONT
+inter (sans-serif)
+https://www.cufonfonts.com/font/inter
+https://fonts.google.com/specimen/Inter?query=inter#license
+
+Nuosu SIL (Serif)
+https://fonts.google.com/specimen/Nuosu+SIL?query=inter&category=Serif#type-tester
+
+
+Bootstrap Icon
+https://icons.getbootstrap.com/icons/cart4/
+https://icons.getbootstrap.com/icons/award/
+https://icons.getbootstrap.com/icons/graph-up-arrow/
+https://icons.getbootstrap.com/icons/patch-check/
+
+
+
+PRODUCT IMAGE WOMEN 1 (Acne Night Cream)
+https://www.msglowid.com/Website/Halaman/detail_product/acne-night-cream-.html
+PRODUCT IMAGE WOMEN 2 (Acne Series)
+https://www.msglowid.com/Website/Halaman/detail_product/acne-series.html
+PRODUCT IMAGE WOMEN 3 (ACNE SERUM)
+https://www.msglowid.com/Website/Halaman/detail_product/acne-serum.html
+PRODUCT IMAGE WOMEN 4 (ACNE SPOT TREATMENT)
+https://www.msglowid.com/Website/Halaman/detail_product/acne-spot-treatment.html
+PRODUCT IMAGE WOMEN 5 (ULTRA MOIST CUSHION)
+https://www.msglowid.com/Website/Halaman/detail_product/ultra-moist-cushion.html
+PRODUCT IMAGE WOMEN 6 (EASY BRIGHT BODY SERUM)
+https://www.msglowid.com/Website/Halaman/detail_product/easy-bright-body-serum.html
+
+PRODUCT IMAGE MEN 1 (BEARD & HAIR SERUM)
+https://msglowformenid.com/product/detail/9
+PRODUCT IMAGE MEN 2 (MASKULIN BODY LOTION)
+https://msglowformenid.com/product/detail/5
+PRODUCT IMAGE MEN 3 (ENERGY BRIGHT CREAM)
+https://msglowformenid.com/product/detail/2
+PRODUCT IMAGE MEN 4 (ENERGY SERUM)
+https://msglowformenid.com/product/detail/3
+PRODUCT IMAGE MEN 5 (ENERGIZER FACIAL WASH)
+https://msglowformenid.com/product/detail/1
+PRODUCT IMAGE MEN 6 (PLAYMAKER OIL BASED POMADE)
+https://msglowformenid.com/product/detail/7
+
+OUR CLINIC
+BANDUNG
+https://www.msglowid.com/assets/img/klinik/bandung.jpg
+SURABAYA
+https://www.msglowid.com/assets/img/klinik/surabaya.jpg
+JAKARTA
+https://www.msglowid.com/assets/img/klinik/jakarta.jpg
+MALANG
+https://www.msglowid.com/assets/img/klinik/malang.jpg
+
