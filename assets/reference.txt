@@ -69,12 +69,4 @@ PRODUCT IMAGE MEN 6 (PLAYMAKER OIL BASED POMADE)
 https://msglowformenid.com/product/detail/7
 
 OUR CLINIC
-BANDUNG
-https://www.msglowid.com/assets/img/klinik/bandung.jpg
-SURABAYA
-https://www.msglowid.com/assets/img/klinik/surabaya.jpg
-JAKARTA
-https://www.msglowid.com/assets/img/klinik/jakarta.jpg
-MALANG
-https://www.msglowid.com/assets/img/klinik/malang.jpg
-
+https://www.msglowid.com/Website/Halaman/our_clinic
